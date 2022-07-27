@@ -1,3 +1,3 @@
-- Hi, I’m @germiniani, A.K.A. m1mir
+- Hi, I’m @m1mir-the-wise, A.K.A. m1mir
 - I’m interested in programing in general, from web development to create applications
 - I am learning python, also has a bit of experience in HTML, CSS and Linux, but I'm looking to learn new things
